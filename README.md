@@ -7,3 +7,4 @@ Oluşan dizilerimiz tek elemanlı olana kadar bölmeye devam ediyoruz.\
 Daha sonra aşağıdan başlayarak tek elemları sıralayıp birleştiriyoruz.
 Sonuç olarak elde ettiğimiz dizi [8,11,12,16,21,22]\
 Kod kısmında ise Python yazılım dili ile bir mergesort fonksiyonu gerçekleştirilmiştir.
+Merge Sort için Big O gösterimi O(nLogn).
